@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "459754640073",
+    "project_id": "syncwheels-d90e4",
+    "storage_bucket": "syncwheels-d90e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459754640073:android:72f88adf5b120b58737318",
+        "android_client_info": {
+          "package_name": "com.example.syncwheelsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459754640073-ri7li54culn2hvsj5tp2bhfcrnrrcvba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb4OqDDtCNICy5Vp64YBTD-mn1F4-mVzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459754640073-ri7li54culn2hvsj5tp2bhfcrnrrcvba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
